@@ -83,3 +83,37 @@ body{
 }
 
 
+.leftContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    width: 250px;
+    grid-area: left;
+    background-color: #f3f3f3;
+    border-radius: 3%;
+    flex-direction: column;
+    gap: 100px;
+    
+
+}
+#leftLowerFigure{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(175, 177, 174);
+    
+    
+
+}
+#leftUpperFigure{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(180, 40, 15);
+}
+#leftButton{
+    background-color: #c4c4c4;
+    border-radius: 3%;
+    width: 100px;
+    height: 40px;
+    padding: 10px 20px;
+}
