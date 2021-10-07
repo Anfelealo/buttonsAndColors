@@ -40,7 +40,7 @@ body {
 #leftUpperFigure{
     height: 100px;
     width: 100px;
-    background-color: rgb(180, 40, 15);
+    background: #D22525;
 }
 
 #leftLowerFigure{
@@ -77,7 +77,7 @@ body {
 #centerUpperFigure{
     height: 100px;
     width: 100px;
-    background-color: green;
+    background: #55AB36;
 }
 
 #centerLowerFigure{
